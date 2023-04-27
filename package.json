@@ -1,0 +1,9 @@
+{
+  "name": "3d-handson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^4.3.1"
+  }
+}
